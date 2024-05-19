@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "An updated high-end laptop",
+        "price": 1600.0,
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "A latest model smartphone",
+        "price": 800.0,
+        "category": "Electronics"
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "description": "Noise-cancelling headphones",
+        "price": 200.0,
+        "category": "Accessories"
+    },
+    {
+        "id": 4,
+        "name": "Tablet",
+        "description": "A powerful tablet",
+        "price": 600.0,
+        "category": "Electronics"
+    }
+]

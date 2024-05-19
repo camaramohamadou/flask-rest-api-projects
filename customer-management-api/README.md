@@ -1,5 +1,4 @@
 
-- **`Dockerfile`**: Defines the Docker image for the Flask application.
 - **`README.md`**: Documentation for the project.
 - **`requirements.txt`**: List of dependencies.
 - **`request.py`**: Client script to interact with the Flask API using the `requests` library.
@@ -23,13 +22,12 @@ The server is built using Flask and provides the following API endpoints:
 
 The client script (`request.py`) uses the `requests` library to interact with the Flask API. It demonstrates how to perform CRUD operations on the customer data.
 
-## Setup
+## Setup 
 
 ### Prerequisites
 
 - Python 3.8 or higher
 - `pip` (Python package installer)
-- Docker (for containerization)
 - Google Cloud SDK (for deploying to Google Cloud Run)
 
 ### Clone the Repository
